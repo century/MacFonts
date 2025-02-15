@@ -1,169 +1,169 @@
 @font-face
 {
     font-family: "Athens18";
-    src: url(../WOFF2/MacAthens-18.woff2)
+    src: url(/WOFF2/MacAthens-18.woff2)
 }
 
 @font-face
 {
     font-family: "Chicago12";
-    src: url(../WOFF2/MacChicago-12.woff2)
+    src: url(/WOFF2/MacChicago-12.woff2)
 }
 
 @font-face
 {
     font-family: "Geneva09";
-    src: url(../WOFF2/MacGeneva-09.woff2)
+    src: url(/WOFF2/MacGeneva-09.woff2)
 }
 
 @font-face
 {
     font-family: "Geneva10";
-    src: url(../WOFF2/MacGeneva-10.woff2)
+    src: url(/WOFF2/MacGeneva-10.woff2)
 }
 
 @font-face
 {
     font-family: "Geneva12";
-    src: url(../WOFF2/MacGeneva-12.woff2)
+    src: url(/WOFF2/MacGeneva-12.woff2)
 }
 
 @font-face
 {
     font-family: "Geneva14";
-    src: url(../WOFF2/MacGeneva-14.woff2)
+    src: url(/WOFF2/MacGeneva-14.woff2)
 }
 
 @font-face
 {
     font-family: "Geneva18";
-    src: url(../WOFF2/MacGeneva-18.woff2)
+    src: url(/WOFF2/MacGeneva-18.woff2)
 }
 
 @font-face
 {
     font-family: "Geneva24";
-    src: url(../WOFF2/MacGeneva-24.woff2)
+    src: url(/WOFF2/MacGeneva-24.woff2)
 }
 
 @font-face
 {
     font-family: "London18";
-    src: url(../WOFF2/MacLondon-18.woff2)
+    src: url(/WOFF2/MacLondon-18.woff2)
 }
 
 @font-face
 {
     font-family: "LosAngeles12";
-    src: url(../WOFF2/MacLosAngeles-12.woff2)
+    src: url(/WOFF2/MacLosAngeles-12.woff2)
 }
 
 @font-face
 {
     font-family: "LosAngeles24";
-    src: url(../WOFF2/MacLosAngeles-24.woff2)
+    src: url(/WOFF2/MacLosAngeles-24.woff2)
 }
 
 @font-face
 {
     font-family: "Monaco09";
-    src: url(../WOFF2/MacMonaco-09.woff2)
+    src: url(/WOFF2/MacMonaco-09.woff2)
 }
 
 @font-face
 {
     font-family: "Monaco12";
-    src: url(../WOFF2/MacMonaco-12.woff2)
+    src: url(/WOFF2/MacMonaco-12.woff2)
 }
 
 @font-face
 {
     font-family: "NewYork09";
-    src: url(../WOFF2/MacNewYork-09.woff2)
+    src: url(/WOFF2/MacNewYork-09.woff2)
 }
 
 @font-face
 {
     font-family: "NewYork10";
-    src: url(../WOFF2/MacNewYork-10.woff2)
+    src: url(/WOFF2/MacNewYork-10.woff2)
 }
 
 @font-face
 {
     font-family: "NewYork12";
-    src: url(../WOFF2/MacNewYork-12.woff2)
+    src: url(/WOFF2/MacNewYork-12.woff2)
 }
 
 @font-face
 {
     font-family: "NewYork14";
-    src: url(../WOFF2/MacNewYork-14.woff2)
+    src: url(/WOFF2/MacNewYork-14.woff2)
 }
 
 @font-face
 {
     font-family: "NewYork18";
-    src: url(../WOFF2/MacNewYork-18.woff2)
+    src: url(/WOFF2/MacNewYork-18.woff2)
 }
 
 @font-face
 {
     font-family: "NewYork24";
-    src: url(../WOFF2/MacNewYork-24.woff2)
+    src: url(/WOFF2/MacNewYork-24.woff2)
 }
 
 @font-face
 {
     font-family: "NewYork36";
-    src: url(../WOFF2/MacNewYork-36.woff2)
+    src: url(/WOFF2/MacNewYork-36.woff2)
 }
 
 @font-face
 {
     font-family: "SanFrancisco18";
-    src: url(../WOFF2/MacSanFrancisco-18.woff2)
+    src: url(/WOFF2/MacSanFrancisco-18.woff2)
 }
 
 @font-face
 {
     font-family: "Toronto09";
-    src: url(../WOFF2/MacToronto-09.woff2)
+    src: url(/WOFF2/MacToronto-09.woff2)
 }
 
 @font-face
 {
     font-family: "Toronto10";
-    src: url(../WOFF2/MacToronto-10.woff2)
+    src: url(/WOFF2/MacToronto-10.woff2)
 }
 
 @font-face
 {
     font-family: "Toronto12";
-    src: url(../WOFF2/MacToronto-12.woff2)
+    src: url(/WOFF2/MacToronto-12.woff2)
 }
 
 @font-face
 {
     font-family: "Toronto14";
-    src: url(../WOFF2/MacToronto-14.woff2)
+    src: url(/WOFF2/MacToronto-14.woff2)
 }
 
 @font-face
 {
     font-family: "Toronto18";
-    src: url(../WOFF2/MacToronto-18.woff2)
+    src: url(/WOFF2/MacToronto-18.woff2)
 }
 
 @font-face
 {
     font-family: "Toronto24";
-    src: url(../WOFF2/MacToronto-24.woff2)
+    src: url(/WOFF2/MacToronto-24.woff2)
 }
 
 @font-face
 {
     font-family: "Venice14";
-    src: url(../WOFF2/MacVenice-14.woff2)
+    src: url(/WOFF2/MacVenice-14.woff2)
 }
 
 .athens18 {
