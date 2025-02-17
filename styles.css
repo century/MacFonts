@@ -331,3 +331,9 @@ p {
 hr {
 	margin-top: 1rem;
 }
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility;
+}
